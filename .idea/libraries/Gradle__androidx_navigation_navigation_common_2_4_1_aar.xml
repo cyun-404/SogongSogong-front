@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.4.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Users/cys20/.gradle/caches/transforms-3/37f1937047e542afd5be0894994f2eaf/transformed/navigation-common-2.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../Users/cys20/.gradle/caches/transforms-3/37f1937047e542afd5be0894994f2eaf/transformed/navigation-common-2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Users/cys20/.gradle/caches/transforms-3/37f1937047e542afd5be0894994f2eaf/transformed/navigation-common-2.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Users/cys20/.gradle/caches/transforms-3/bada0c4b7ffb21ab29d9a8c541cf0456/transformed/navigation-common-2.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Users/cys20/.gradle/caches/transforms-3/bada0c4b7ffb21ab29d9a8c541cf0456/transformed/navigation-common-2.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../Users/cys20/.gradle/caches/transforms-3/bada0c4b7ffb21ab29d9a8c541cf0456/transformed/navigation-common-2.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Users/cys20/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.4.1/4ecd5ff20a671ef8fd72096f507633eaa8ec3ae0/navigation-common-2.4.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Users/cys20/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.4.1/4ecd5ff20a671ef8fd72096f507633eaa8ec3ae0/navigation-common-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

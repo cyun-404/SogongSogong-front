@@ -21,13 +21,11 @@ class BoardListFragment: BaseFragment<FragmentBoardListBinding>(R.layout.fragmen
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        setBinding()
+
         setCoroutine()
     }
 
-    private fun setBinding() {
-        binding.navViewModel = navViewModel
-    }
+
 
     private fun setCoroutine() {
         lifecycleScope.launch {
